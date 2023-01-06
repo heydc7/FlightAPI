@@ -11,62 +11,62 @@
     "origin": "IND",
     "destination": "MEX",
     "seats": "50",
-    "date": "6/1/2023"
+    "date": "2023-01-07"
   },
   {
     "id": "3",
     "origin": "IND",
     "destination": "JPN",
     "seats": "14",
-    "date": "6/1/2023"
+    "date": "2023-01-07"
   },
   {
     "id": "4",
     "origin": "IND",
     "destination": "JPN",
     "seats": "90",
-    "date": "7/1/2023"
+    "date": "2023-01-07"
   },
   {
     "id": "5",
     "origin": "USA",
     "destination": "JPN",
     "seats": "85",
-    "date": "7/1/2023"
+    "date": "2023-01-07"
   },
   {
     "id": "6",
     "origin": "JPN",
     "destination": "IND",
     "seats": "45",
-    "date": "7/1/2023"
+    "date": "2023-01-08"
   },
   {
     "id": "7",
     "origin": "JPN",
     "destination": "USA",
     "seats": "100",
-    "date": "7/1/2023"
+    "date": "2023-01-08"
   },
   {
     "id": "8",
     "origin": "MEX",
     "destination": "JPN",
     "seats": "150",
-    "date": "7/1/2023"
+    "date": "2023-01-08"
   },
   {
     "id": "9",
     "origin": "JPN",
     "destination": "IND",
     "seats": "10",
-    "date": "8/1/2023"
+    "date": "2023-01-08"
   },
   {
     "id": "10",
     "origin": "USA",
     "destination": "IND",
     "seats": "25",
-    "date": "9/1/2023"
+    "date": "2023-01-08"
   }
 ]
