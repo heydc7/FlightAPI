@@ -18,7 +18,7 @@
     "origin": "IND",
     "destination": "JPN",
     "seats": "14",
-    "date": "2023-01-07"
+    "date": "2023-01-08"
   },
   {
     "id": "4",
@@ -39,7 +39,7 @@
     "origin": "JPN",
     "destination": "IND",
     "seats": "45",
-    "date": "2023-01-08"
+    "date": "2023-01-07"
   },
   {
     "id": "7",
@@ -88,7 +88,7 @@
     "origin": "IND",
     "destination": "JPN",
     "seats": "34",
-    "date": "2023-01-08"
+    "date": "2023-01-07"
   },
   {
     "id": "14",
